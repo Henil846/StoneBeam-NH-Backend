@@ -15,6 +15,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:5174',
+    'https://henil846.github.io',
     'https://stonebeam-nh-backend.vercel.app',
     /\.vercel\.app$/
   ],
